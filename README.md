@@ -1,2 +1,2 @@
 # Tkinter
- Repositório destinado a criação com o Tkinter usando Python.
+ Meu primeiro repositório, destinado a criação com o Tkinter usando Python.
